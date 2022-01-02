@@ -105,7 +105,7 @@ def board_check(board):
 
 
 #The actual code.
-read_file("boardone.txt")
+read_file("74_Checkmate_Checker.txt")
 
     
         
